@@ -32,7 +32,7 @@ All interactions happen through a simple and interactive **Swing-based GUI**.
 
 1. Clone or download the code
 2. Open `TodoManager.java` in your IDE
-3. Compile and run:
+📦 Compile & Run via Terminal
 
 ```bash
 javac TodoManager.java
